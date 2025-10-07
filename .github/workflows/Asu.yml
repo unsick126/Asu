@@ -2,7 +2,7 @@ name: Window 10
 
 on: [push, workflow_dispatch]
 
-jobs:https://mega.nz/C!2INiRYZR
+jobs:
   build:
 
     runs-on: windows-latest
